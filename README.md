@@ -49,7 +49,7 @@ This project is licensed under the MIT License.
 <div align="center">
   <br />
     <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
-      <img src="https://github.com/user-attachments/assets/680ab9cc-51b9-4a05-83a0-e8f469c3bd7e" alt="Project Banner">
+      <img src="https://i.ibb.co/WV1YMtD/Three-js-Portfolio.png" alt="Project Banner">
     </a>
   <br />
 
