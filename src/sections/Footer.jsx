@@ -18,9 +18,11 @@ const Footer = () => {
           <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
         </div>
       </div>
+  <p className="text-white-500">
+    &copy; 2024 Remi Steve. Creativity in every detail.
+  </p>
+</footer>
 
-      <p className="text-white-500">© 2024 Adrian Hajdin. All rights reserved.</p>
-    </footer>
   );
 };
 
